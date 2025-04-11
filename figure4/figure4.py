@@ -7,7 +7,7 @@ import os
 # if truth is 0 and pred is 1 then change the pred txt that index to 2
 # if truth is 1 and pred is 0 then change the pred txt that index to 3
 # files have the naming format of APET_i, TPET_i, where i=0-4
-
+#figure4
 
 main_path = os.path.join(os.path.dirname(__file__), "data")
 categories = ["APET", "TPET"]
