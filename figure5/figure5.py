@@ -6,7 +6,7 @@ from matplotlib.lines import Line2D
 from matplotlib.legend import Legend
 from matplotlib.ticker import MaxNLocator
 
-
+#figure5
 
 # def plot_with_regression(array1, array2):
 #     # Ensure the arrays are of the correct length
